@@ -1,0 +1,20 @@
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+
+.contenedor__title{
+    position: absolute;
+    top: 8%;
+    left: 5%;
+}
+
+.init{
+    font-size: 80px;
+}
+
+img{
+    width: 100vw;
+    max-width: 100%;
+}
